@@ -1,8 +1,8 @@
 ### 안녕하세요, 신은재입니다👋
 
-#### 🎨 Figma, Adobe XD, Adobe Photoshop 등을 사용합니다
-#### 📝 UI/UX 디자인, 프론트엔드를 공부하는 중입니다
-#### 😄 앞으로 다양한 프로젝트를 기반으로 실력을 증진시키겠습니다
+##### 🎨 Figma, Adobe XD, Adobe Photoshop 등을 사용합니다
+##### 📝 UI/UX 디자인, 프론트엔드를 공부하는 중입니다
+##### 😄 앞으로 다양한 프로젝트를 기반으로 실력을 증진시키겠습니다
 
 <!--
 [![Eunjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunjae2641)](https://github.com/anuraghazra/github-readme-stats
